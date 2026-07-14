@@ -1,0 +1,1 @@
+- [Vercel Next.js portfolio port](vercel-portfolio-port.md) — flat `app/page.js` Next apps have no API routes; skip backend/codegen and go straight to frontend conversion.
