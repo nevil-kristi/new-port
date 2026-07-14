@@ -1,6 +1,6 @@
 export const about = {
     name: "Nevil Kristi",
-    role: "Frontend Developer",
+    role: "Js Developer",
     about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
     email: "your.email@example.com",
 };
@@ -82,7 +82,7 @@ export const projects = {
 
 export const experience = [
     {
-        title: "Frontend Developer at Tech Solutions",
+        title: "Js Developer at Tech Solutions",
         description:
             "Worked on building and maintaining responsive web applications using React.js and Next.js, improving UI performance and user experience.",
         date: "15/01/2024",
