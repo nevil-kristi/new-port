@@ -1,5 +1,5 @@
 export const about = {
-    name: "Your Name",
+    name: "Nevil Kristi",
     role: "Your Profession",
     about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
     email: "your.email@example.com",
