@@ -1,19 +1,21 @@
 export const about = {
     name: "Nevil Kristi",
-    role: "next js Js Developer",
+    role: "Next Js Developer",
     about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
-    email: "your.email@example.com",
+    email: "nevilkristi@gmail.com",
 };
 
 export const seo = {
     title: `${about.name} | ${about.role}`,
-    description: "Minimal, clean Next.js portfolio template for developers seeking a simple, professional online presence without extra complexity.",
-    keywords: "portfolio, web developer, Next.js, developer portfolio, minimal portfolio",
-}
+    description:
+        "Minimal, clean Next.js portfolio template for developers seeking a simple, professional online presence without extra complexity.",
+    keywords:
+        "portfolio, web developer, Next.js, developer portfolio, minimal portfolio",
+};
 
 export const forms = {
     formspreeUrl: "https://formspree.io/f/<url>",
-}
+};
 
 export const skills = [
     { name: "Html", alt: "html logo", icon: "/html.svg" },
