@@ -1,6 +1,6 @@
 export const about = {
     name: "Nevil Kristi",
-    role: "Next Js Developers",
+    role: "Next Js Developer",
     about: "A minimal, clean portfolio template built with Next.js. Perfect for developers who want a simple yet professional online presence without the complexity.",
     email: "nevilkristi@gmail.com",
 };
